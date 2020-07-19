@@ -11,6 +11,8 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+format: json
+
 collections:
   - name: "blog"
     label: "Blog"
