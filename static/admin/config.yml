@@ -12,6 +12,7 @@ media_folder: static/img
 public_folder: /img
 
 format: json
+extension: json
 
 collections:
   - name: "blog"
