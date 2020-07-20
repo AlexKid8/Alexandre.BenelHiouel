@@ -5,7 +5,7 @@
   "description": "TestJSON format",
   "featuredpost": true,
   "featuredimage": "/img/coffee.png",
-  "body": "TestJSON format",
+  "body": "Test**JSON** *format*",
   "tags": [
     "Test",
     "JSON"
